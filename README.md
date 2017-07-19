@@ -1,6 +1,6 @@
-# Tic-Tac-Toe
+# React Calendar
 
-A React.js [tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
+Just an example to learn [React](https://facebook.github.io/react/)
 
 ## Develop
 
