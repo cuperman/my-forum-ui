@@ -1,7 +1,7 @@
 {
-  "name": "tic-tac-toe",
+  "name": "react-calendar",
   "version": "1.0.0",
-  "description": "React.js tutorial",
+  "description": "A react-based calendar",
   "main": "./public/js/bundle.js",
   "scripts": {
     "build": "npm run webpack-build",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cuperman/tic-tac-toe.git"
+    "url": "git+https://github.com/cuperman/react-calendar.git"
   },
   "author": "Jeff Cooper",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cuperman/tic-tac-toe/issues"
+    "url": "https://github.com/cuperman/react-calendar/issues"
   },
-  "homepage": "https://github.com/cuperman/tic-tac-toe#readme",
+  "homepage": "https://github.com/cuperman/react-calendar#readme",
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
