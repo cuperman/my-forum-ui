@@ -1,7 +1,7 @@
 {
-  "name": "react-calendar",
+  "name": "my-forum-ui",
   "version": "1.0.0",
-  "description": "A react-based calendar",
+  "description": "a forum",
   "main": "./public/js/bundle.js",
   "scripts": {
     "build": "npm run webpack-build",

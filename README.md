@@ -1,4 +1,4 @@
-# React Calendar
+# My Forum
 
 Just an example to learn [React](https://facebook.github.io/react/)
 

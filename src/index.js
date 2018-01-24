@@ -1,10 +1,9 @@
-import './index.scss';
-
-import Calendar from './calendar.jsx';
 import React    from 'react';
 import ReactDom from 'react-dom';
 
+import App from './components/app';
+
 ReactDom.render(
-  React.createElement(Calendar, { date: new Date(2000, 1, 1) }),
+  React.createElement(App),
   document.getElementById('root')
 );
